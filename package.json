@@ -1,0 +1,23 @@
+{
+  "name": "s3-uploader-api",
+  "version": "1.0.0",
+  "description": "This code will be used to teach me more about how to work with multer and AWS system. Then in the future i'll try to teach some else.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.ts",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devthiagolinch/s3-get-put-delete.git"
+  },
+  "author": "thiagolinch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devthiagolinch/s3-get-put-delete/issues"
+  },
+  "homepage": "https://github.com/devthiagolinch/s3-get-put-delete#readme",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
