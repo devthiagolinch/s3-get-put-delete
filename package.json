@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/devthiagolinch/s3-get-put-delete#readme",
   "devDependencies": {
+    "@types/node": "^22.5.3",
+    "prisma": "^5.19.1",
+    "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.19.1"
   }
 }
